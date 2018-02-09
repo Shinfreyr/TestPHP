@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#formulaire{
+    border: solid seashell;
+    width: 100%;    
+}
+
+label{
+    color:white;
+}
+input{
+    width: 100%;
+}
