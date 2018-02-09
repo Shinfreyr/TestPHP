@@ -4,6 +4,7 @@
     <head>
         <meta charset="utf-8" />
         <title>Mini-chat</title>
+        <link href="style.css" rel="stylesheet" />
     </head>
 
     <style>
